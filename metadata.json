@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Prediction Platform",
+  "description": "An end-to-end customer churn prediction dashboard showcasing clean machine learning pipelines, predictive analytics, SHAP explainability, and AI-driven retention strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
